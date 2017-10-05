@@ -31,11 +31,14 @@ a:hover {
 a {
   color: #793284;
   text-decoration: none;
-
 }
 
 p {
   font-style: italic;
   font-size: 1.2rem;
   text-align: center;
+}
+
+ol {
+  list-style-type: none;
 }
