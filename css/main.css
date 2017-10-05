@@ -12,6 +12,7 @@ img {
 }
 
 h2 {
+  font-family: 'Patua One', cursive;
   text-transform: uppercase;
   color: #5d8432;
 }
@@ -19,6 +20,7 @@ h2 {
 li {
   font-weight: bold;
   line-height: 1.125rem;
+  font-family: 'Patua One', cursive;
 }
 
 a:hover {
