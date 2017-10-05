@@ -21,6 +21,7 @@ nav {
   font-weight: bold;
   line-height: 1.125rem;
   font-family: "Patua One", cursive;
+  list-style-type: none;
 }
 
 a:hover {
@@ -29,6 +30,8 @@ a:hover {
 
 a {
   color: #793284;
+  text-decoration: none;
+
 }
 
 p {
