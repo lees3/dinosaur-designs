@@ -17,11 +17,10 @@ h2 {
   color: #5d8432;
 }
 
-li {
+nav {
   font-weight: bold;
   line-height: 1.125rem;
   font-family: "Patua One", cursive;
-
 }
 
 a:hover {
