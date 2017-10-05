@@ -15,7 +15,6 @@ h2 {
   font-family: "Patua One", cursive;
   text-transform: uppercase;
   color: #5d8432;
-  text-align: center;
 }
 
 li {
@@ -30,4 +29,8 @@ a:hover {
 
 a {
   color: #793284;
+}
+
+p {
+  text-align: center;
 }
