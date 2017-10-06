@@ -36,11 +36,14 @@ a {
 p {
   font-style: italic;
   font-size: 1.2rem;
-  text-align: center;
   line-height: 1;
   margin-top: auto;
   font-stretch: ultra-expanded;
   column-count: 1;
+  width: 800px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 ol {
