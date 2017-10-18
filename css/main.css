@@ -1,6 +1,6 @@
 html {
   background-color: #f2f1ed;
-  font-family: georgia, serif;
+  font-family: Georgia, serif;
   line-height: 1.5;
   text-align: left;
   font-style: italic;
@@ -19,9 +19,9 @@ h2 {
 
 nav {
   font-weight: bold;
-  line-height: 1.6rem;
+  line-height: 1.125rem;
   font-family: "Patua One", cursive;
-  list-style-type: none;
+  font-size: 1rem;
 }
 
 a:hover {
@@ -35,8 +35,9 @@ a {
 
 figcaption {
   font-style: italic;
-  font-size: 1.1rem;
+  font-size: .8rem;
   text-align: center;
+  white-space: pre-wrap;
 }
 
 ol {
