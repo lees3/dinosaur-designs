@@ -9,19 +9,24 @@ html {
 
 img {
   width: 100%;
+  margin-bottom: -26px;
 }
 
 h2 {
-  font-family: "Patua One", cursive;
+  font-family: "Patua One";
   text-transform: uppercase;
   color: #5d8432;
+  font-style: normal;
 }
 
 nav {
   font-weight: bold;
-  line-height: 1.125rem;
-  font-family: "Patua One", cursive;
-  font-size: 1rem;
+  line-height: 1.7rem;
+  font-family: "Patua One";
+  font-size: 1.1rem;
+  font-style: normal;
+  margin-top: -3px;
+
 }
 
 a:hover {
@@ -33,13 +38,28 @@ a {
   text-decoration: none;
 }
 
-figcaption {
+.hadro {
   font-style: italic;
-  font-size: .8rem;
+  font-size: 1rem;
   text-align: center;
   white-space: pre-wrap;
+  line-height: 1.5rem;
+  margin-bottom: -20px;
+}
+
+.iguan {
+  font-size: .8rem;
+  margin-top: 25px;
+
+}
+
+.dinosrus {
 }
 
 ol {
   list-style-type: none;
+}
+
+h1 {
+  margin-bottom: 51px;
 }
